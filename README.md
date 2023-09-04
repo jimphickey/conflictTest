@@ -1,0 +1,2 @@
+# conflictTest
+Testing conflict
